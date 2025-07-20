@@ -62,7 +62,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloVila&hide_border=true&layout=compact" />
 </div>
 
-<br clear="both"/> ---
+<br clear="both"/>
 
 # Connect with me
 <a href="https://github.com/GonzaloVila" target="_blank">
