@@ -56,14 +56,6 @@
 
 <br/>
 
-## Github Stats
-<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=GonzaloVila&show_icons=true&count_private=true&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonzaloVila&hide_border=true&layout=compact" />
-</div>
-
-<br clear="both"/>
-
 # Connect with me
 <a href="mailto:gonzalovila08@gmail.com" target="_blank">
 <img src="https://skillicons.dev/icons?i=gmail" />
