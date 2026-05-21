@@ -1,49 +1,65 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Vila</h1>
-<h3 align="center">Backend Developer • Java & Spring Boot</h3>
+
+<h3 align="center">
+Backend Developer focused on Java & Spring Boot
+</h3>
 
 <p align="center">
-I build scalable backend applications, REST APIs, and clean architectures focused on performance and maintainability.
+I build scalable backend applications, REST APIs, and clean architectures with a strong focus on performance, maintainability, and code quality.
+</p>
+
+<p align="center">
+Currently learning React & AWS ☁️
 </p>
 
 ---
 
-## 🚀 Current Focus
+## 🧠 About Me
 
-- Building: [Inventory Control]([https://github.com/GonzaloVila/Inventory-Control](https://github.com/GonzaloVila/Turnify))
-- Learning: React & AWS
-- Interested in: Backend Architecture, Cloud & Microservices
+- 💻 Backend developer passionate about building robust applications
+- ⚙️ Experienced with Java, Spring Boot & relational databases
+- 🤝 Comfortable working in agile teams and collaborative environments
+- 🚀 Interested in backend architecture, APIs and cloud technologies
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,mysql,docker,aws,react,js,git,github&theme=dark" />
+<div align="center">
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,css,html,sass,javascript&theme=dark" />
 </p>
 
 ---
 
-## 📌 Featured Project
+### Backend
 
-### 📦 Inventory Control
-Inventory management system built with Java & Spring Boot.
-
-✔ Authentication & Roles  
-✔ REST API  
-✔ Database integration  
-✔ Scalable backend structure
-
-🔗 https://github.com/GonzaloVila/Inventory-Control
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,python,jquery&theme=dark" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github&theme=dark" />
+</p>
+
+</div>
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
   <a href="mailto:gonzalovila08@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
-  
+
   <a href="https://linkedin.com/in/gonzalovila08/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
