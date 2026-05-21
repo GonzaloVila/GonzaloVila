@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonzalo Vila</h1>
 
 <h3 align="center">
-Backend Developer focused on Java & Spring Boot
+Full Stack Developer
 </h3>
 
 <p align="center">
