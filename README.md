@@ -9,7 +9,7 @@ I build scalable backend applications, REST APIs, and clean architectures focuse
 
 ## 🚀 Current Focus
 
-- Building: [Inventory Control](https://github.com/GonzaloVila/Inventory-Control)
+- Building: [Inventory Control]([https://github.com/GonzaloVila/Inventory-Control](https://github.com/GonzaloVila/Turnify))
 - Learning: React & AWS
 - Interested in: Backend Architecture, Cloud & Microservices
 
