@@ -16,7 +16,7 @@ Currently learning React & AWS ☁️
 
 ## 🧠 About Me
 
-- 💻 Backend developer passionate about building robust applications
+- 💻 Developer passionate about building robust applications
 - ⚙️ Experienced with Java, Spring Boot & relational databases
 - 🤝 Comfortable working in agile teams and collaborative environments
 - 🚀 Interested in backend architecture, APIs and cloud technologies
