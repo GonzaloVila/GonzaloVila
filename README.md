@@ -1,4 +1,4 @@
-<h1 align="center">Gonzalo Vila</h1>
+<h1 align="center"> I'm Gonzalo Vila</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Backend-Focused+FullStack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Next.js;Building+scalable+web+applications;Automation+%26+Backend+Systems" />
@@ -13,7 +13,6 @@
 <h2 align="center">⚡ Technologies</h2>
 
 <table align="center">
-<tr>
 <td valign="top" width="33%">
 
 ### Frontend
