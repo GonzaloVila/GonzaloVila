@@ -11,8 +11,11 @@
 <br>
 
 <h2 align="center">⚡ Technologies</h2>
+
+<table align="center">
 <tr>
 <td valign="top" width="33%">
+
   
 ### Frontend
 <p align="left">
