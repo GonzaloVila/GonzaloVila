@@ -11,9 +11,9 @@
 <br>
 
 <h2 align="center">⚡ Technologies</h2>
-
-<table align="center">
-
+<tr>
+<td valign="top" width="33%">
+  
 ### Frontend
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
@@ -48,6 +48,8 @@
 </p>
 
 <br>
+
+<h2 align="center">Contact</h2>
 
 <p align="center">
   <a href="https://linkedin.com/in/gonzalovila08">
