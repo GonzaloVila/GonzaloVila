@@ -10,15 +10,38 @@
 
 <br>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<h2 align="center">⚡ Technologies</h2>
+
+<table align="center">
+<tr>
+<td valign="top" width="33%">
+
+### Frontend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
 </p>
 
-<br>
+</td>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,ts,nodejs,postgres,docker,git,linux&theme=dark" />
+<td valign="top" width="33%">
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,python,postgres,mysql" />
 </p>
+
+</td>
+
+<td valign="top" width="33%">
+
+### Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,linux" />
+</p>
+
+</td>
+</tr>
+</table>
 
 <br>
 
